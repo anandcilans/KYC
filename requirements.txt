@@ -6,5 +6,5 @@ pandas
 numpy
 python-dotenv
 pillow
-dlib-bin==19.24.2
+dlib-bin==19.24.2.post1
 face_recognition @ git+https://github.com/thetoby9944/face_recognition.git
